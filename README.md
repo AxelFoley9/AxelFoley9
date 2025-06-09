@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @AxelFoley9
-- 👀 I’m interesting in future
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on new safty data world
-- 📫 How to reach me +971503999131
-- 😄 Pronouns: :/
-- ⚡ Fun fact: 
+# 👋 Hi, I’m @AxelFoley9
 
-<!---
-AxelFoley9/AxelFoley9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 🌱 I’m currently learning IT and software development  
+- 🤖 I’m especially interested in building Telegram bots and working with data  
+- 💡 I’m looking to collaborate on safety data projects and other meaningful tech initiatives  
+- 📫 How to reach me: [Telegram](https://t.me/your_username) | Email: your@email.com  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I love automating small tasks and exploring new APIs!
+
+<!--
+AxelFoley9/AxelFoley9 is a ✨ special ✨ repository because it’s your profile README.
+-->
 --->
