@@ -1,5 +1,4 @@
 # 👋 Hi, I’m @AxelFoley9
-
 - 🌱 I’m currently learning IT and software development  
 - 🤖 I’m especially interested in building Telegram bots and working with data  
 - 💡 I’m looking to collaborate on safety data projects and other meaningful tech initiatives  
